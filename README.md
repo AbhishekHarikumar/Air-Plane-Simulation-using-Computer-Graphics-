@@ -9,3 +9,6 @@ Highlights:
 ⁃ Created objects like the moon, sun, clouds, and bush using different Open GL shape functions, then deployed the simulation's functionality using other Open GL built-in functions.
 
 It depends extensively on Computer Graphics, Glut Framework, and Open GL libraries.
+
+
+<img>
