@@ -11,4 +11,3 @@ Highlights:
 It depends extensively on Computer Graphics, Glut Framework, and Open GL libraries.
 
 
-<img>
